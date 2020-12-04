@@ -18,7 +18,7 @@ public class Main {
         System.out.println(calculate(3, 4, 5, 6));
         System.out.println(checkSum(4, 8));
         checkPositive(-4);
-        System.out.println(checkPositiveWithReturn(-5));
+        System.out.println(checkPositiveWithReturn(-6));
         sayHello("Nikita");
         checkLeapYear(2025);
     }
