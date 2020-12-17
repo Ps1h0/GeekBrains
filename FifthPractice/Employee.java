@@ -1,14 +1,14 @@
 package com.company;
 
 public class Employee {
-    String surname;
-    String name;
-    String patronymic;
-    String position;
-    String email;
-    String phoneNumber;
-    int salary;
-    int age;
+    public String surname;
+    public String name;
+    public String patronymic;
+    public String position;
+    public String email;
+    public String phoneNumber;
+    public int salary;
+    public int age;
 
     public Employee(String surname, String name, String patronymic, String position,
                     String email, String phoneNumber, int salary, int age){
