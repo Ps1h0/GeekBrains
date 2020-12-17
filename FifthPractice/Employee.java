@@ -1,7 +1,7 @@
 package com.company;
 
 public class Employee {
-    public String surname;
+    private String surname;
     public String name;
     public String patronymic;
     public String position;
