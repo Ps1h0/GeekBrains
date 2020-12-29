@@ -23,9 +23,9 @@ public class Cat {
     }
 
     public void status(){
-        if (satiety){
+        if (satiety)
             System.out.println("Кот " + getName() + " наелся");
-        }else
+        else
             System.out.println("Кот " + getName() + " не наелся");
     }
 }
